@@ -9,7 +9,7 @@ I'm currently a student at **1337school** (42Network).
 ```c
 struct Najib {
 	char *fullname = "Najib amoussaui";
-	int age = 23;
+	int age = 22;
 	char *languages[6] = {"Shell", "C", "C++", "Python", "Java", 0};
 	char *fun_fact = "it is only a 1 or a 0";
 };
