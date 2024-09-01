@@ -1,5 +1,19 @@
-<h1 align="center">I'm Najib</h1>
-<h3 align="center">Student at 1337 coding school</h3>
+### Hey 👋 I'm NAJIB
+
+I'm currently a student at **1337school** (42Network).
+
+## <img width="45" height="45" alt="about" src="https://i.gifer.com/origin/6e/6e5867851ee89a5a3f28beeaa49e01ae_w200.gif"> About Me
+
+<img align="right" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+```c
+struct Nors {
+	char *fullname = "Najib amoussaui";
+	int age = 23;
+	char *languages[6] = {"Shell", "C", "C++", "Python", "Java", 0};
+	char *fun_fact = "it is only a 1 or a 0";
+};
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namoussa-hx&label=Profile%20views&color=0e75b6&style=flat" alt="namoussa-hx" /> </p>
 
