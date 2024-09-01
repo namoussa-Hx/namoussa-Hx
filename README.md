@@ -7,7 +7,7 @@ I'm currently a student at **1337school** (42Network).
 <img align="right" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ```c
-struct Nors {
+struct Najib {
 	char *fullname = "Najib amoussaui";
 	int age = 23;
 	char *languages[6] = {"Shell", "C", "C++", "Python", "Java", 0};
