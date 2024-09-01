@@ -14,6 +14,9 @@ struct Najib {
 	char *fun_fact = "it is only a 1 or a 0";
 };
 ```
+## **My 1337FIL Profile (42Network)**
+
+[![namoussa's 42 stats](https://badge.mediaplus.ma/colorfulwaves/namoussa)](https://github.com/namoussa-Hx)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namoussa-hx&label=Profile%20views&color=0e75b6&style=flat" alt="namoussa-hx" /> </p>
 
