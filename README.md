@@ -10,7 +10,7 @@ I'm currently a student at **1337school** (42Network).
 struct Najib {
 	char *fullname = "Najib amoussaoui";
 	int age = 22;
-	char *languages[6] = {"Shell", "C", "C++", "Python", "Java", 0};
+	char *languages[5] = {"Shell", "C", "C++", "Java", 0};
 	char *fun_fact = "it is only a 1 or a 0";
 };
 ```
